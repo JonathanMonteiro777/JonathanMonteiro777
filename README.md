@@ -1,8 +1,8 @@
 # 👨‍💻 Jonathan Monteiro - `Desenvolvedor Web FullStack`
 
 Meu nome é **Jonathan**, desenvolvedor em transição de carreira, apaixonado por tecnologia e movido por desafios. Após enfrentar um grave acidente de moto, transformei minha dor em motivação e mergulhei de cabeça no mundo da programação.
-Desde então, venho construindo minha trajetória com foco, dedicação e muita prática — conciliando os estudos técnicos com projetos reais, buscando por uma evolução constante. 
-Me formei no **SENAI** em **Desenvolvimento Web FullStack** com foco em **C# com .NET**, **HTML**, **CSS** e **JavaScript**, além de estudar **Estrutura de Dados**, **Lógica de Programação**, **Banco de Dados** e **Testes Automatizados**.
+Desde então, venho construindo minha trajetória com foco, dedicação e muita prática — conciliando os estudos técnicos com projetos reais, buscando por uma evolução constante. 
+Me formei no **SENAI** em **Desenvolvimento Web FullStack** com foco em **C# com .NET**, **HTML**, **CSS** e **JavaScript**, além de estudar **Estrutura de Dados**, **Lógica de Programação**, **Banco de Dados** e **Testes Automatizados (incluindo automação com Selenium)**.
 
 ---
 
@@ -29,22 +29,25 @@ Me formei no **SENAI** em **Desenvolvimento Web FullStack** com foco em **C# com
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)](https://learn.microsoft.com/pt-br/sql/sql-server/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)](https://www.postman.com/)
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)](https://swagger.io/)
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)](https://www.selenium.dev/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/)
+
+
 
 ---
 
 ## 📁 Principais Projetos
 
 <div align="center">
-  <a href="https://link-do-projeto-1" target="_blank">
-    <img src="https://via.placeholder.com/300x180.png?text=Projeto+1" alt="Projeto 1" width="300" />
-    <p><strong>Projeto 1 - Nome do Sistema</strong></p>
-  </a>
+  <a href="https://link-do-projeto-1" target="_blank">
+    <img src="https://via.placeholder.com/300x180.png?text=Projeto+1" alt="Projeto 1" width="300" />
+    <p><strong>Projeto 1 - Nome do Sistema</strong></p>
+  </a>
 
-  <a href="https://link-do-projeto-2" target="_blank">
-    <img src="https://via.placeholder.com/300x180.png?text=Projeto+2" alt="Projeto 2" width="300" />
-    <p><strong>Projeto 2 - Descrição Rápida</strong></p>
-  </a>
+  <a href="https://link-do-projeto-2" target="_blank">
+    <img src="https://via.placeholder.com/300x180.png?text=Projeto+2" alt="Projeto 2" width="300" />
+    <p><strong>Projeto 2 - Descrição Rápida</strong></p>
+  </a>
 </div>
 
 ---
@@ -64,5 +67,3 @@ Este repositório é mais do que uma vitrine de projetos — ele representa minh
 Atualmente, estudo inglês de forma autodidata, com foco em leitura e compreensão de conteúdo técnico. Meu próximo passo é desenvolver a conversação para ampliar as oportunidades na área de tecnologia.
 
 Obrigado por visitar meu GitHub! Fique à vontade para explorar os projetos, acompanhar minha evolução e, claro, conectar comigo pelas redes acima. Vamos juntos transformar ideias em código!
-
----
