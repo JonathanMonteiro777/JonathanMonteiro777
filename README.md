@@ -54,9 +54,9 @@ Me formei no **SENAI** em **Desenvolvimento Web FullStack** com foco em **C# com
 
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/seu-perfil)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/seunumero)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jonathan-lucas-34684a1a4/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jonathanlucas777)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5537991042878)
 
 ---
 
