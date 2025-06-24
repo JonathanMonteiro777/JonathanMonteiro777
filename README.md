@@ -6,7 +6,7 @@ Me formei no **SENAI** em **Desenvolvimento Web FullStack** com foco em **C# com
 
 ---
 
-## 🌱 Em constante aprendizado
+## Em constante aprendizado
 
 * Desenvolvimento Web FullStack (SENAI)
 * Curso de HTML (Curso em Vídeo - Prof. Gustavo Guanabara)
@@ -16,7 +16,7 @@ Me formei no **SENAI** em **Desenvolvimento Web FullStack** com foco em **C# com
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## Tecnologias que utilizo
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -36,19 +36,21 @@ Me formei no **SENAI** em **Desenvolvimento Web FullStack** com foco em **C# com
 
 ---
 
-## 📁 Principais Projetos
+## Principais Projetos Publicados
+Meus projetos demonstram minha capacidade de aplicar conhecimentos teóricos em soluções práticas e funcionais, com foco em tecnologias FullStack.
 
-<div align="center">
-  <a href="https://link-do-projeto-1" target="_blank">
-    <img src="https://via.placeholder.com/300x180.png?text=Projeto+1" alt="Projeto 1" width="300" />
-    <p><strong>Projeto 1 - Nome do Sistema</strong></p>
-  </a>
+[JM Games](https://jonathanmonteiro777.github.io/Projeto-JM-Games/)🔗
 
-  <a href="https://link-do-projeto-2" target="_blank">
-    <img src="https://via.placeholder.com/300x180.png?text=Projeto+2" alt="Projeto 2" width="300" />
-    <p><strong>Projeto 2 - Descrição Rápida</strong></p>
-  </a>
-</div>
+JM Games é um projeto de portfólio que simula uma loja virtual de games, demonstrando minhas habilidades em desenvolvimento front-end com JavaScript (ES Modules), HTML5, CSS3 e Bootstrap 5. A aplicação integra a RAWG API para busca dinâmica de jogos, filtragem por gênero/plataforma e paginação. Possui funcionalidades completas como carrinho de compras, sistema de favoritos, autenticação de usuário e uma página de detalhes de produto interativa, tudo com foco em uma UX/UI responsiva e moderna.
+
+
+[Gerenciador de Extensões](https://jonathanmonteiro777.github.io/browser-extensions-manager-ui/)🔗
+
+Este projeto é a interface de um gerenciador de extensões de navegador, desenvolvido como um desafio do Frontend Mentor. Ele demonstra minhas habilidades em HTML, CSS (Flexbox, Grid, variáveis) e JavaScript puro (manipulação do DOM, Fetch API), apresentando funcionalidades como alternância de estado (ativo/inativo), filtragem, remoção de extensões e um seletor de tema claro/escuro com persistência, tudo com um design responsivo e acessível.
+
+[Veo3](https://jonathanmonteiro777.github.io/projeto-Veo-3/)🔗
+
+Um site responsivo desenvolvido com HTML5 e CSS3 que explora o Google Veo 3, a inovadora IA generativa de vídeos. Originalmente criado para praticar HTML semântico e responsividade, foi adaptado para demonstrar o poder da IA na produção audiovisual."
 
 ---
 
@@ -60,7 +62,7 @@ Me formei no **SENAI** em **Desenvolvimento Web FullStack** com foco em **C# com
 
 ---
 
-## 🎯 Em constante evolução
+## Em constante evolução
 
 Este repositório é mais do que uma vitrine de projetos — ele representa minha jornada de superação, estudo e transformação. Aqui compartilho o que já construí com dedicação e onde pretendo chegar com muito trabalho e aprendizado contínuo.
 
