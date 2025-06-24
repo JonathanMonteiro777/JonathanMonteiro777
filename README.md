@@ -39,16 +39,16 @@ Me formei no **SENAI** em **Desenvolvimento Web FullStack** com foco em **C# com
 ## Principais Projetos Publicados
 Meus projetos demonstram minha capacidade de aplicar conhecimentos teóricos em soluções práticas e funcionais, com foco em tecnologias FullStack.
 
-[JM Games](https://jonathanmonteiro777.github.io/Projeto-JM-Games/)🔗
+[JM Games](https://jonathanmonteiro777.github.io/Projeto-JM-Games/) | [Repositório](https://github.com/jonathanmonteiro777/Projeto-JM-Games)
 
 JM Games é um projeto de portfólio que simula uma loja virtual de games, demonstrando minhas habilidades em desenvolvimento front-end com JavaScript (ES Modules), HTML5, CSS3 e Bootstrap 5. A aplicação integra a RAWG API para busca dinâmica de jogos, filtragem por gênero/plataforma e paginação. Possui funcionalidades completas como carrinho de compras, sistema de favoritos, autenticação de usuário e uma página de detalhes de produto interativa, tudo com foco em uma UX/UI responsiva e moderna.
 
 
-[Gerenciador de Extensões](https://jonathanmonteiro777.github.io/browser-extensions-manager-ui/)🔗
+[Gerenciador de Extensões](https://jonathanmonteiro777.github.io/browser-extensions-manager-ui/) | [Repositório](https://github.com/jonathanmonteiro777/browser-extensions-manager-ui)
 
 Este projeto é a interface de um gerenciador de extensões de navegador, desenvolvido como um desafio do Frontend Mentor. Ele demonstra minhas habilidades em HTML, CSS (Flexbox, Grid, variáveis) e JavaScript puro (manipulação do DOM, Fetch API), apresentando funcionalidades como alternância de estado (ativo/inativo), filtragem, remoção de extensões e um seletor de tema claro/escuro com persistência, tudo com um design responsivo e acessível.
 
-[Veo3](https://jonathanmonteiro777.github.io/projeto-Veo-3/)🔗
+[Veo3](https://jonathanmonteiro777.github.io/projeto-Veo-3/) | [Repositório](https://github.com/jonathanmonteiro777/projeto-Veo-3)
 
 Um site responsivo desenvolvido com HTML5 e CSS3 que explora o Google Veo 3, a inovadora IA generativa de vídeos. Originalmente criado para praticar HTML semântico e responsividade, foi adaptado para demonstrar o poder da IA na produção audiovisual."
 
